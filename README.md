@@ -18,7 +18,7 @@ Spotify is a proprietary Swedish audio streaming and media services provider fou
 
 In this project I have performed Exploratory Data Analysis (EDA) on Spotify data using Python(Jupyter Notebook). The analysis includes data exploration, data cleaning, data visualization, and deriving insights from the data. The scripts and notebooks in this repository cover different techniques and visualizations used in EDA.
 
-The purpose of this EDA is to understand the data, discover patterns, identify anomalies, and derive meaningful insights that can inform decision-making or guide further analysis.
+The purpose of this EDA is to understand the data, discover patterns, identify anomalies, and derive meaningful insights that can help to make informed decisions or guide for further analysis.
 
 ## Installation
 To run the code in this repository, you need to have Python and the required libraries installed. 
